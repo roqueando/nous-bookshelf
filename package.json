@@ -12,7 +12,7 @@
     "test": "jest --runInBand"
   },
   "dependencies": {
-    "@roqueando/nous": "^0.7.0",
+    "@roqueando/nous": "^0.8.2",
     "lokijs": "^1.5.8"
   },
   "devDependencies": {

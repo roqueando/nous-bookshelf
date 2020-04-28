@@ -472,10 +472,10 @@
     "@types/yargs" "^15.0.0"
     chalk "^3.0.0"
 
-"@roqueando/nous@^0.7.0":
-  version "0.7.0"
-  resolved "https://registry.yarnpkg.com/@roqueando/nous/-/nous-0.7.0.tgz#864a2898f490844e72e555793006e68c0cc792c7"
-  integrity sha512-FRAH+lVJloIgns884krJTcU+wupj9glOFyYBqoCdEJSLgc0u+Xekqs91l2F22upL3Cxwah8mnaGzGGQviD0YZw==
+"@roqueando/nous@^0.8.2":
+  version "0.8.2"
+  resolved "https://registry.yarnpkg.com/@roqueando/nous/-/nous-0.8.2.tgz#f273e15d4ebdb942145dfd412fd637657efd7d92"
+  integrity sha512-FkxsHPhTGmjDdYdVWVVbrea9gJ1KkpgGZqMlnHytF+zUTVbc1D0L6TbtMJvp24BItpGEs55dwaDezI2U2nncZA==
 
 "@sindresorhus/is@^0.14.0":
   version "0.14.0"
